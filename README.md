@@ -50,7 +50,6 @@ Replace the `.image-placeholder` divs with actual images:
 ### Updating Contact Information
 
 Edit the contact details in the Contact section of `index.html`:
-- Phone: +91 9415229728
 - Email: snehakesharwani76@gmail.com
 - Instagram: @snehakesharwani13
 - Location: Prayagraj, Uttar Pradesh
@@ -84,3 +83,4 @@ Modify colors in `styles.css` under `:root` variables:
 ## License
 
 © 2025 Sneha Kesharwani — All Rights Reserved
+
