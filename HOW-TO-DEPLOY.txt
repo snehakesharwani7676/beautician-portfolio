@@ -1,0 +1,52 @@
+========================================
+DEPLOY YOUR PORTFOLIO TO NETLIFY
+========================================
+
+🚀 SUPER EASY - 3 STEPS:
+
+STEP 1: Go to Netlify
+---------------------------------
+Open: https://www.netlify.com
+Sign up (free, no credit card needed)
+
+STEP 2: Drag & Drop
+---------------------------------
+1. You'll see a box: "Drag and drop your site folder here"
+2. Drag your "portfolio 2.0" folder into that box
+3. Wait 30 seconds
+
+STEP 3: Done!
+---------------------------------
+Your website is LIVE! 🎉
+You'll get a link like: https://your-site.netlify.app
+
+========================================
+TO ADD IMAGES:
+========================================
+
+1. Add photos to images/ folder on your computer
+   - Makeup photos → images/makeup/bridal-makeup/
+   - Hair photos → images/hair/keratin/
+   - Etc.
+
+2. Go back to Netlify
+3. Drag & drop your folder again
+4. Updated in 10 seconds!
+
+========================================
+YOUR FILES (READY TO DEPLOY):
+========================================
+
+✅ index.html - Main website
+✅ styles.css - Styling
+✅ script.js - Interactions
+✅ gallery-loader.js - Auto-gallery
+✅ admin.html - Image manager
+✅ images/ - All image folders (20 subfolders)
+
+========================================
+THAT'S IT!
+========================================
+
+Just drag "portfolio 2.0" folder to Netlify!
+Your beautiful portfolio will be live! 🌟
